@@ -68,7 +68,7 @@ function App() {
       element: <>
         <Navbar title="TextUtiles" aboutText="About" mode={mode} toggleMode={toggleMode} />
         <Alert alert={alert} />
-        <TextForm showAlert={showAlert} heading="Try Textutiles - Word Counter, Character Counter, Remove extrac spaces " mode={mode} />
+        <TextForm showAlert={showAlert} heading="Try TextUtiles - Word Counter, Character Counter, Remove extrac spaces " mode={mode} />
 
       </>
     }
