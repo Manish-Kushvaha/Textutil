@@ -45,5 +45,5 @@ The application works smoothly on all modern browsers like Chrome, Firefox, Edge
 
 ## 🌐 Live Demo
 
-👉 [Click Here to Use TextUtiles](https://your-netlify-link.netlify.app)
+👉 [Click Here to Use TextUtiles](https://textutil-seven.vercel.app/)
 ---
