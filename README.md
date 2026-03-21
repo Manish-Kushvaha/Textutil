@@ -20,7 +20,7 @@ TextUtiles is a simple and efficient web-based text utility tool that helps you 
 
 ## 📸 Preview
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](https://github.com/Manish-Kushvaha/TextUtiles/blob/f0afd0fbceec12ef3e77e5ee418aaa48906212a3/textutil/public/front%20page.png)
 
 ---
 
